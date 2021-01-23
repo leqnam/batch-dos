@@ -9,7 +9,7 @@ Simple by run the program, choose a 16bit application and the application will r
 # Setup and Run
 
 - Download and Install AutoIt: https://www.autoitscript.com/site/autoit/downloads/
-- Clone the repository: `git clone https://github.com/leqnam/batch-dos`
+- Clone the repository: `git clone https://github.com/leqnam/batch-dos.git`
 - Open and build the au3 file.
 
 or just run the pre-built `build/Batch DOS.exe`. The pre-built was built on Nov 10 2010.
@@ -31,7 +31,7 @@ Dyna is running under my Windows 10 x64
 
 - DOSBox homepage: https://www.dosbox.com/
 - Blog (In Vietnamese): https://nready.net/batch-dos-cong-cu-ho-tro-chay-cac-ung-dung-16bit/
-- Repository: https://github.com/leqnam/batch-dos
+- Github: https://github.com/leqnam/batch-dos
 - Pre-built: http://www.mediafire.com/download.php?wqkovcl3wm33h9t
 
 # License
